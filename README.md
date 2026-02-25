@@ -80,3 +80,6 @@ Executive-level reporting
 
 Data Source
 The dataset used for this project is the Superstore Sales Dataset sourced from Kaggle.
+
+Screenshot/ Uploads
+Dashboard Snapshot: ![Dashboard Preview](https://github.com/Yash-Khanolkar/superstore-sales-analysis-powerbi/blob/main/Sales%20Report%20Dashboard.png)
