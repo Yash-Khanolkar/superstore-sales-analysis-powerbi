@@ -1,16 +1,21 @@
 📌 Project Title
+
 📈 Superstore Sales Analysis & Executive Dashboard | Power BI
 
 📌 Headline
+
 A business-focused Power BI dashboard delivering actionable insights on revenue, profit margin, customer segmentation, and seasonal sales trends.
 
 📊 Sales Performance Dashboard | Power BI & SQL
+
 Project Overview
+
 This project presents an interactive Sales Performance Dashboard developed using Power BI and SQL to analyze business performance across sales, profit, customer segments, and regional markets.
 The objective of this project was to transform raw transactional data into actionable business insights through data cleaning, transformation, modeling, and visualization.
 The dashboard enables decision-makers to monitor KPIs, identify growth opportunities, and evaluate profitability drivers.
 
 🎯 Business Objectives
+
 - Track overall Sales, Profit, and Profit Margin performance
 - Identify top-performing customer segments
 - Analyze regional contribution to revenue and profit
@@ -19,14 +24,15 @@ The dashboard enables decision-makers to monitor KPIs, identify growth opportuni
 - Identify Top 5 Customers by Sales contribution
 - Compare profitability across product categories
 
-  🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used
+  
 - SQL – Data extraction and querying
 - Microsoft Power BI – Data visualization & dashboard development
 - DAX (Data Analysis Expressions) – KPI and calculated measures
 - Data Modeling – Relationship building & star schema structure
 - Data Cleaning & Transformation – Data type correction, formatting, sorting logic
 
-  📊 Key KPIs & Metrics
+📊 Key KPIs & Metrics
 
 - Total Sales: 2.27M
 - Total Profit: 282.86K
@@ -38,7 +44,8 @@ Custom DAX Measures Created:
 - Total Profit = SUM(Profit)
 - Profit Margin = DIVIDE([Total Profit], [Total Sales])
 
-  📈 Dashboard Insights
+📈 Dashboard Insights
+
 🔹 Segment Analysis
 - Consumer segment contributes ~47% of total profit
 - Corporate segment is second highest contributor
@@ -52,7 +59,7 @@ Custom DAX Measures Created:
 - Technology is the most profitable category
 - Furniture shows lowest profit margin, indicating potential pricing or cost challenges
 
-  🔹 Shipping Mode Impact
+🔹 Shipping Mode Impact
 - Standard Class contributes the highest sales and profit
 - Premium shipping modes contribute less revenue proportionally
 
@@ -64,7 +71,7 @@ Custom DAX Measures Created:
 - Top 5 customers significantly impact overall revenue
 - Suggests opportunity for customer retention and loyalty strategies
 
-  🧠 Data Preparation Process
+🧠 Data Preparation Process
 
 1. Extracted and explored dataset using SQL
 2. Imported data into Power BI
@@ -72,13 +79,15 @@ Custom DAX Measures Created:
 4. Built calculated columns and DAX measures
 5. Designed executive-level dashboard layout with structured visual storytelling
 
-   📂 Repository Contents
-- Sales_Report_Dashboard.pbix – Power BI dashboard file
+📂 Repository Contents
+
+- Retail Sales Report.pbix – Power BI dashboard file
 - Superstore_Raw_Data.xlsx – Raw dataset used for analysis
-- dashboard-preview.png – Dashboard snapshot
+- Sales Report Dashboard.png – Dashboard snapshot
 - README.md – Project documentation
 
-  💼 Business Value
+💼 Business Value
+
 - This dashboard provides a centralized performance view enabling:
 - Strategic sales planning
 - Profitability optimization
