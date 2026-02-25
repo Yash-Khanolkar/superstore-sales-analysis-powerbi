@@ -14,11 +14,17 @@ The dashboard enables decision-makers to monitor KPIs, identify growth opportuni
 
 Business Objectives
 Track overall Sales, Profit, and Profit Margin performance
+
 Identify top-performing customer segments
+
 Analyze regional contribution to revenue and profit
+
 Evaluate shipping mode impact on profitability
+
 Detect seasonal sales trends
+
 Identify Top 5 Customers by Sales contribution
+
 Compare profitability across product categories
 
 Key KPIs & Metrics
