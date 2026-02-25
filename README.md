@@ -96,4 +96,6 @@ Custom DAX Measures Created:
 - Executive-level reporting
 
 📸 Dashboard Snapshot/Screenshot
-Dashboard Snapshot: ![Dashboard Preview](https://github.com/Yash-Khanolkar/superstore-sales-analysis-powerbi/blob/main/Sales%20Report%20Dashboard.png)
+
+Dashboard Snapshot:
+![Dashboard Preview](https://github.com/Yash-Khanolkar/superstore-sales-analysis-powerbi/blob/main/Sales%20Report%20Dashboard.png)
