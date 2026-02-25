@@ -1,18 +1,18 @@
 # superstore-sales-analysis-powerbi
 Power BI Sales Performance Dashboard analyzing profit, sales trends, customer behavior, and regional performance using Superstore dataset.
 
-Project Title
+1. Project Title
 Superstore Sales Analysis & Executive Dashboard | Power BI
 
-Headline
+2. Headline
 End-to-end sales data analysis project featuring KPI tracking, profitability analysis, customer insights, and executive-level visualization design.
 
-Project Overview
+3. Project Overview
 This project presents an interactive Sales Performance Dashboard developed using Power BI and SQL to analyze business performance across sales, profit, customer segments, and regional markets.
 The objective of this project was to transform raw transactional data into actionable business insights through data cleaning, transformation, modeling, and visualization.
 The dashboard enables decision-makers to monitor KPIs, identify growth opportunities, and evaluate profitability drivers.
 
-Business Objectives
+4. Business Objectives
 Track overall Sales, Profit, and Profit Margin performance
 
 Identify top-performing customer segments
@@ -27,7 +27,7 @@ Identify Top 5 Customers by Sales contribution
 
 Compare profitability across product categories
 
-Key KPIs & Metrics
+5. Key KPIs & Metrics
 Total Sales: 2.27M
 Total Profit: 282.86K
 Profit Margin: 12.45%
@@ -37,7 +37,7 @@ Total Sales = SUM(Sales)
 Total Profit = SUM(Profit)
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
 
-Dashboard Insights
+6. Dashboard Insights
 Segment Analysis
 Consumer segment contributes ~47% of total profit
 Corporate segment is second highest contributor
@@ -63,20 +63,20 @@ Customer Contribution
 Top 5 customers significantly impact overall revenue
 Suggests opportunity for customer retention and loyalty strategies
 
-Data Preparation Process
+7. Data Preparation Process
 Extracted and explored dataset using SQL
 Imported data into Power BI
 Cleaned and transformed data (corrected date formats, data types, sorting logic)
 Built calculated columns and DAX measures
 Designed executive-level dashboard layout with structured visual storytelling
 
-Repository Contents
+8. Repository Contents
 Retail Sales Report.pbix – Power BI dashboard file
 Superstore_Raw_Data.xlsx – Raw dataset used for analysis
 Sales Report Dashboard.png – Dashboard snapshot
 README.md – Project documentation
 
-Business Value
+9. Business Value
 This dashboard provides a centralized performance view enabling:
 Strategic sales planning
 Profitability optimization
