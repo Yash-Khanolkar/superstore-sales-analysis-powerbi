@@ -8,48 +8,48 @@ This project presents an interactive Sales Performance Dashboard developed using
 
 The objective of this project was to transform raw transactional data into actionable business insights through:
 
-🧹 Data cleaning
+Data cleaning
 
-🔄 Data transformation
+Data transformation
 
-🧠 Data modeling
+Data modeling
 
-📊 Executive-level visualization
+Executive-level visualization
 
 The dashboard enables decision-makers to monitor KPIs, identify growth opportunities, and evaluate profitability drivers.
 
 🎯 Business Objectives
 
-📈 Track overall Sales, Profit, and Profit Margin performance
+Track overall Sales, Profit, and Profit Margin performance
 
-👥 Identify top-performing customer segments
+Identify top-performing customer segments
 
-🌍 Analyze regional contribution to revenue and profit
+Analyze regional contribution to revenue and profit
 
-🚚 Evaluate shipping mode impact on profitability
+Evaluate shipping mode impact on profitability
 
-📅 Detect seasonal sales trends
+Detect seasonal sales trends
 
-⭐ Identify Top 5 Customers by Sales contribution
+Identify Top 5 Customers by Sales contribution
 
-🏷 Compare profitability across product categories
+Compare profitability across product categories
 
 📊 Key KPIs & Metrics
 
-💰 Total Sales: 2.27M
+Total Sales: 2.27M
 
-💵 Total Profit: 282.86K
+Total Profit: 282.86K
 
-📊 Profit Margin: 12.45%
+Profit Margin: 12.45%
 
-🧾 Total Orders: 5K
+Total Orders: 5K
 
-🧮 Custom DAX Measures Created
+Custom DAX Measures Created
 Total Sales = SUM(Sales)
 Total Profit = SUM(Profit)
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
 🔍 Dashboard Insights
-👥 Segment Analysis
+Segment Analysis
 
 Consumer segment contributes ~47% of total profit
 
@@ -57,75 +57,63 @@ Corporate segment is second highest contributor
 
 Home Office generates comparatively lower profit
 
-🌍 Regional Performance
+Regional Performance
 
 West region generates highest profit
 
 Central region underperforms relative to other regions
 
-🏷 Category Profitability
+Category Profitability
 
 Technology is the most profitable category
 
-Furniture shows lowest profit margin, indicating potential pricing or cost challenges
+Furniture shows lowest profit margin
 
-🚚 Shipping Mode Impact
+Shipping Mode Impact
 
 Standard Class contributes the highest sales and profit
 
-Premium shipping modes contribute less revenue proportionally
+Premium shipping modes contribute less revenue
 
-📅 Seasonal Trends
+Seasonal Trends
 
 Sales peak during Q4 (October–December)
 
-Indicates strong seasonal demand and importance of inventory planning
+Indicates strong seasonal demand
 
-⭐ Customer Contribution
+Customer Contribution
 
 Top 5 customers significantly impact overall revenue
 
-Suggests opportunity for customer retention and loyalty strategies
+Opportunity for retention strategies
 
 🛠 Data Preparation Process
 
-🗄 Extracted and explored dataset using SQL
+Extracted and explored dataset using SQL
 
-📥 Imported data into Power BI
+Imported data into Power BI
 
-🧹 Cleaned and transformed data (corrected date formats, data types, sorting logic)
+Cleaned and transformed data (corrected date formats, data types, sorting logic)
 
-🧮 Built calculated columns and DAX measures
+Built calculated columns and DAX measures
 
-🎨 Designed executive-level dashboard layout with structured visual storytelling
+Designed executive-level dashboard layout
 
 📂 Repository Contents
 
-📊 Retail Sales Report.pbix – Power BI dashboard file
+Retail Sales Report.pbix – Power BI dashboard file
 
-📁 Superstore_Raw_Data.xlsx – Raw dataset used for analysis
+Superstore_Raw_Data.xlsx – Raw dataset
 
-🖼 Sales Report Dashboard.png – Dashboard snapshot
+Sales Report Dashboard.png – Dashboard snapshot
 
-📄 README.md – Project documentation
-
-💼 Business Value
-
-This dashboard provides a centralized performance view enabling:
-
-📈 Strategic sales planning
-
-💰 Profitability optimization
-
-🌍 Regional performance evaluation
-
-👥 Customer-focused revenue strategy
-
-🧾 Executive-level reporting
+README.md – Project documentation
 
 📂 Data Source
 
-The dataset used for this project is the Superstore Sales Dataset sourced from Kaggle.
+Superstore Sales Dataset sourced from Kaggle.
+
+📸 Dashboard Snapshot
 
 📸 Dashboard Snapshot/Screenshot
 Dashboard Snapshot: ![Dashboard Preview](https://github.com/Yash-Khanolkar/superstore-sales-analysis-powerbi/blob/main/Sales%20Report%20Dashboard.png)
